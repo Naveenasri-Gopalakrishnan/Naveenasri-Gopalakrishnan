@@ -1,6 +1,6 @@
 👋 Hi, I’m @Naveenasri-Gopalakrishnan
 
-FINAL YEAR CSE STUDENT
+FINAL YEAR ComputerScience and Engineering STUDENT
 
 TO REACH ME...
    shrinaveegopal@gmail.com
