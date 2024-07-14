@@ -8,13 +8,11 @@ TO REACH ME...
  CONNECT WITH ME IN...
  
   
-  <img src="https://github.com/user-attachments/assets/ca0e714c-6d64-46c3-9cd8-446a2c739834" height="50" width="50">  <img src="https://github.com/user-attachments/assets/1194a22c-1362-4846-85c5-5c10d277c3fe" height="50" width="50">
-
-
+  <img src="https://github.com/user-attachments/assets/ca0e714c-6d64-46c3-9cd8-446a2c739834" height="50" width="50">   <img src="https://github.com/user-attachments/assets/6468c226-6469-449f-8ca4-0422fe3476ee" height="50" width="50">
   LANGUAGES AND TOOLS
 
   <img src="https://github.com/user-attachments/assets/1bc71876-b08b-4dfe-918e-114cbb4b7c00" height="50" width="50">   
-  <img src="https://github.com/user-attachments/assets/6468c226-6469-449f-8ca4-0422fe3476ee" height="50" width="50">
+ 
   <img src="https://github.com/user-attachments/assets/2782e58b-c2a7-4844-a189-8a9824cd9e6d" height="40" width="50">    <img src="https://github.com/user-attachments/assets/4c6e9551-072a-44b2-afe3-3c1d61913579" height="50" width="50">  
   <img src="https://github.com/user-attachments/assets/21dd794c-7ca3-4b44-8cd9-84ead7f4606b" height="50" width="50"> <img src="https://github.com/user-attachments/assets/76d74977-747f-450e-b93c-5818dab7cd4b" height="50" width="50">
   <img src="https://github.com/user-attachments/assets/6108f503-bc56-43da-b73d-0e6a463d443f" height="50" width="50">  <img src="https://github.com/user-attachments/assets/d6e03553-c0c8-4c5d-9566-6ccc3e8fe88c" height="50" width="50">
