@@ -7,8 +7,11 @@ TO REACH ME...
 
  CONNECT WITH ME IN...
  
+ <a href="https://www.linkedin.com/in/naveenasri-gopalakrishnan" target="blank"> <img align="centre" src="![linkedIn_PNG8](https://github.com/user-attachments/assets/92160a7a-14b1-4b04-9b49-43a602a9a055)" alt="naveenasri_g" height="30" width="40"/> </a>
+
+
+
   
-  <img src="https://github.com/user-attachments/assets/ca0e714c-6d64-46c3-9cd8-446a2c739834" height="50" width="50">   <img src="https://github.com/user-attachments/assets/6468c226-6469-449f-8ca4-0422fe3476ee" height="50" width="50">
   
   LANGUAGES AND TOOLS
 
