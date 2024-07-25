@@ -7,7 +7,7 @@ TO REACH ME...
 
  CONNECT WITH ME IN...
  
- <a href="https://www.linkedin.com/in/naveenasri-gopalakrishnan" target="blank"> <img align="centre" src="![linkedIn_PNG8](https://github.com/user-attachments/assets/92160a7a-14b1-4b04-9b49-43a602a9a055)" alt="naveenasri_g" height="30" width="40"/> </a>
+ <a href="https://www.linkedin.com/in/naveenasri-gopalakrishnan" target="blank"> <img align="centre" src="https://github.com/user-attachments/assets/92160a7a-14b1-4b04-9b49-43a602a9a055" alt="naveenasri_g" height="30" width="40"/> </a>
 
 
 
