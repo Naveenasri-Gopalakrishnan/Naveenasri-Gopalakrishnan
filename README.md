@@ -1,4 +1,4 @@
- 👋 Hi, I’m @Naveenasri-Gopalakrishnan
+ 👋 Hi, I’m Naveenasri-Gopalakrishnan
 
 FINAL YEAR CSE STUDENT
 
